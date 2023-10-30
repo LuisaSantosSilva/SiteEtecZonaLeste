@@ -21,10 +21,6 @@ Após isso fiz o alinhamento do Brainstorm.
   [![Documentos](https://img.shields.io/badge/Relatório_das_Entrevistas-2023-8B0000?style=for-the-badge)](https://github.com/LuisaSantosSilva/SiteEtecZonaLeste/blob/main/Documentos/Relat%C3%B3rio%20de%20Entrevistas.pdf)
 </div>
 
-<div align="center">
-<a href='https://www.cps.sp.gov.br/etec/'><img width="100" src="https://media.canva.com/1/image-resize/1/182_115_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9pNGptRS9NQUZ4a0VpNGptRS8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAHm4J0dYeSrLg3OcuYDNti39Ks0FpqTfQGu7j52sBNJo&exp=1698221154&x-canva-quality=thumbnail&csig=AAAAAAAAAAAAAAAAAAAAAITrDRJwpLkbVbYD9AAbKkGfDlNg-JJpdqtsyccUXdV2"> </a>
-</div>
-
 ##
 **Contatos:**
 
