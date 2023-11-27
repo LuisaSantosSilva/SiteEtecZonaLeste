@@ -19,7 +19,11 @@ Após isso fiz o alinhamento do Brainstorm.
   
   [![Documentos](https://img.shields.io/badge/Alinhamento_do_Brainstorm-2023-8B0000?style=for-the-badge)](https://github.com/LuisaSantosSilva/SiteEtecZonaLeste/blob/main/Documentos/Alinhamento%20do%20Brainstorm.pdf)
   [![Documentos](https://img.shields.io/badge/Relatório_das_Entrevistas-2023-8B0000?style=for-the-badge)](https://github.com/LuisaSantosSilva/SiteEtecZonaLeste/blob/main/Documentos/Relat%C3%B3rio%20de%20Entrevistas.pdf)
+
+  <h4>Layout de tela:</h4>
+  <img width="500" src="https://github.com/LuisaSantosSilva/SiteEtecZonaLeste/blob/main/ETEC%20assets/layout.png"><br>
 </div>
+
 
 ##
 **Contatos:**
