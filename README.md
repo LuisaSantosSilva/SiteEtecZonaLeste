@@ -1,8 +1,6 @@
 # Site Etec Zona Leste
 Repositório criado para fins acadêmicos de um projeto onde o tema é o desenvolvimento de um site para a ETEC Zona Leste.
 
-Obs: O Projeto está em processo de desenvolvimento.
-
 ## 
 **Sou aluna e estou no 2°ano do ensino médio no curso de Desenvolvimento de Sistemas. Em agosto de 2023 entrei para o AMS, durante esse período foi solicitado um projeto individual com o tema de criação de site para a ETEC Zona Leste com brainstorm, entrevistas, wireframes, framework, recursos de javascript e etc.**
 
@@ -22,6 +20,14 @@ Após isso fiz o alinhamento do Brainstorm.
 
   <h4>Layout de tela:</h4>
   <img width="500" src="https://github.com/LuisaSantosSilva/SiteEtecZonaLeste/blob/main/ETEC%20assets/layout.png"><br>
+
+  <h4>Linguagens e técnologias que utilizei:</h4> <br>
+  <p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="30"/>&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40"height="30"/>&nbsp;
+  </p>
 </div>
 
 
