@@ -20,7 +20,8 @@ Após isso fiz o alinhamento do Brainstorm.
 
   <h4>Layout de tela:</h4>
   <img width="500" src="https://github.com/LuisaSantosSilva/SiteEtecZonaLeste/blob/main/ETEC%20assets/layout.png"><br>
-
+  <img width="500" src="https://github.com/LuisaSantosSilva/SiteEtecZonaLeste/blob/main/ETEC%20assets/layout2.png"><br>
+  
   <h4>Linguagens e técnologias que utilizei:</h4> <br>
   <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="30"/>&nbsp;
