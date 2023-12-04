@@ -13,14 +13,17 @@ Realizei entrevistas com dois ex-alunos da escola, três estudantes que ainda es
 Após isso fiz o alinhamento do Brainstorm.
 
 <div align="center">
-  <h3>Clique no Link abaixo e acesse essa documentação:</h3>
+  <h3>Clique no Link abaixo e acesse a documentação:</h3>
   
   [![Documentos](https://img.shields.io/badge/Alinhamento_do_Brainstorm-2023-8B0000?style=for-the-badge)](https://github.com/LuisaSantosSilva/SiteEtecZonaLeste/blob/main/Documentos/Alinhamento%20do%20Brainstorm.pdf)
   [![Documentos](https://img.shields.io/badge/Relatório_das_Entrevistas-2023-8B0000?style=for-the-badge)](https://github.com/LuisaSantosSilva/SiteEtecZonaLeste/blob/main/Documentos/Relat%C3%B3rio%20de%20Entrevistas.pdf)
 
-  <h4>Layout de tela:</h4>
-  <img width="500" src="https://github.com/LuisaSantosSilva/SiteEtecZonaLeste/blob/main/ETEC%20assets/layout.png"><br>
-  <img width="500" src="https://github.com/LuisaSantosSilva/SiteEtecZonaLeste/blob/main/ETEC%20assets/layout2.png"><br>
+##
+  Após, o período de desenvolvimento, o projeto está realizado.
+
+  <h4>Layouts de tela:</h4>
+  <img width="500" src="https://github.com/LuisaSantosSilva/SiteEtecZonaLeste/blob/main/Readme/layouthome.png">
+  <img width="115"  src="https://github.com/LuisaSantosSilva/SiteEtecZonaLeste/blob/main/Readme/layoutresp.png"><br>
   
   <h4>Linguagens e técnologias que utilizei:</h4> <br>
   <p>
