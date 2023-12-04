@@ -1,0 +1,73 @@
+@charset "UTF-8";
+
+/* Estilizando Navbar */
+.navbar{
+    background-color:rgb(150, 18, 18);
+}
+
+/* Estilizando footer */
+.footer-link{
+    color: whitesmoke;
+  }
+  
+footer {
+      text-align: center;
+      padding: 3px;
+      background-color:rgb(150, 18, 18);
+      color: white;
+}  
+
+/* Estilizando texto para justificado */
+div#text{
+    text-align: justify;
+}
+
+/* Estilizando transição para imagem */
+.elem {
+    margin: 20px auto;
+    transition: 500ms linear; 
+}
+.elem:hover {
+    transform: scale(1.1);
+} 
+
+/* Estilizando botão que volta ao inicio da tela */
+#link-topo{
+    text-decoration: none;
+    color: white;
+    background-color: #3498db;
+    padding: 10px;
+    position: fixed;
+    right: 10px;
+    bottom: 80px;
+    box-shadow: 3px 3px 10px #636363;
+    border-radius: 20%;
+}
+
+/* Estilizando container e cards */
+.container {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.cards-container {
+    display: flex;
+    transition: transform 0.5s ease;
+}
+
+.cardcurso{
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+}
+
+.card {
+    width: 20rem;
+    height: 25rem;
+    margin: 10px auto 0;
+    perspective: 1000px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}

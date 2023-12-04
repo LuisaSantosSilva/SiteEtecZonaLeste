@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+/* Estilizando navbar */
+.navbar{
+    background-color:rgb(150, 18, 18);
+}
+
+/* Estilizando footer */
+.footer-link{
+    color: whitesmoke;
+}
+  
+footer {
+    background-color:rgb(150, 18, 18);
+    color: white;
+}  
+
+/* Estilizando texto */
+div#text {
+    text-align: justify;
+}
+
+/* Estilizando transição */
+.elem {
+    margin: 20px auto;
+    transition: 500ms linear; 
+    box-shadow: 3px 3px 10px #636363;
+}
+.elem:hover {
+    transform: scale(1.1);
+}
+
+/* Estilizando botão que volta para o inicio da tela */
+#link-topo{
+    text-decoration: none;
+    color: white;
+    background-color: #3498db;
+    padding: 10px;
+    position: fixed;
+    right: 10px;
+    bottom: 80px;
+    box-shadow: 3px 3px 10px #636363;
+    border-radius: 20%;
+}
+
+
+

@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+/* Estilizando o navbar */
+.navbar{
+    background-color:rgb(150, 18, 18);
+}
+
+/* Estilizando footer */
+.footer-link{
+    color: whitesmoke;
+  }
+  
+footer {
+      text-align: center;
+      padding: 3px;
+      background-color:rgb(150, 18, 18);
+      color: white;
+}  
+
+/* Estilizando texto para justificado */
+div#text{
+    text-align: justify;
+}
+
+/* Estilizando cards */
+.cardnoti{
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+}
+
+.card {
+    width: 20rem;
+    height: 25rem;
+    margin: 10px auto 0;
+    perspective: 1000px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+/* Estilizando botão que leva para o topo da tela */
+#link-topo{
+    text-decoration: none;
+    color: white;
+    background-color: #3498db;
+    padding: 10px;
+    position: fixed;
+    right: 10px;
+    bottom: 80px;
+    box-shadow: 3px 3px 10px #636363;
+    border-radius: 20%;
+}

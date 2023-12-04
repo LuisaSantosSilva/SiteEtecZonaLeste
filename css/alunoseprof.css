@@ -1,0 +1,55 @@
+@charset "UTF-8";
+
+/* Estilizando Navbar */
+.navbar{
+    background-color:rgb(150, 18, 18);
+}
+
+/* Estilizando footer */
+.footer-link{
+    color: whitesmoke;
+  }
+  
+footer {
+      text-align: center;
+      padding: 3px;
+      background-color:rgb(150, 18, 18);
+      color: white;
+}  
+
+/* Estilizando texto para justificado */
+div#text{
+    text-align: justify;
+}
+
+/* Fazendo com que as imagens fiquem redondinhas*/
+img#link{
+    border-radius: 50%;
+}
+
+img#aluno{
+    border-radius: 20%;
+}
+
+/* Estilizando imagens, colocando pequena transição */
+.elem {
+    margin: 20px auto;
+    transition: 500ms linear; 
+    box-shadow: 3px 3px 10px #636363;
+}
+.elem:hover {
+    transform: scale(1.1);
+}
+
+/* Estilizando botão que volta ao topo da tela */
+#link-topo{
+    text-decoration: none;
+    color: white;
+    background-color: #3498db;
+    padding: 10px;
+    position: fixed;
+    right: 10px;
+    bottom: 80px;
+    box-shadow: 3px 3px 10px #636363;
+    border-radius: 20%;
+}
